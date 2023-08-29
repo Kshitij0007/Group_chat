@@ -1,4 +1,4 @@
-# Build A Group-Chat App Using Node.js
+#A Simple Group-Chat App Using Node.js
 
 ## Running the program
 
