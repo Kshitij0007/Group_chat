@@ -36,10 +36,10 @@ To start the server, run the following command in your terminal:
 
 ```shell
 $ node index.js
-The server will start running on http://localhost:3000. Open this URL in your web browser to access the chat application.
+The server will start running on http://localhost:8080. Open this URL in your web browser to access the chat application.
 
 Usage
-Open http://localhost:3000 in your web browser.
+Open http://localhost:8080 in your web browser.
 Enter your username and join the chat room.
 Start sending messages to the group.
 Contributing
